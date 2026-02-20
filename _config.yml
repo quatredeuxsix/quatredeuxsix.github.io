@@ -84,3 +84,10 @@ callouts:
   definition:
     title: Définition
     color: blue
+  proposition:
+    title: Proposition
+    color: yellow
+  theorem:
+    title: Théorème
+    color: red
+
