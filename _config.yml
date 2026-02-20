@@ -90,4 +90,6 @@ callouts:
   theorem:
     title: Théorème
     color: red
-
+  example:
+    title: Exemple
+    color: green
