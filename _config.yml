@@ -78,3 +78,9 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+
+callouts:
+  definition:
+    title: Définition
+    color: blue
