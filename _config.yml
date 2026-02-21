@@ -79,6 +79,9 @@ liquid:
   error_mode: strict
   strict_filters: true
 
+# Make MathJax available on all pages
+math: mathjax
+
 
 callouts:
   definition:
