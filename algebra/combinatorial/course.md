@@ -4,6 +4,7 @@ title: Cours
 parent: Combinatoire
 grand-parent: Algèbre
 nav_enabled: true
+nav_order: 1
 ---
 
 # Ensembles
