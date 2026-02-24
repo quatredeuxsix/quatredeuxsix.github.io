@@ -96,3 +96,6 @@ callouts:
   example:
     title: Exemple
     color: green
+  exercise:
+    title: Exercice
+    color: green
